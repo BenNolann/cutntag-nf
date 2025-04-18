@@ -1,0 +1,10 @@
+#id: 'frip_score'
+#section_name: 'Fraction of Reads Inside Peaks (FRiP)'
+#description: "is calculated from total number of non-duplicated reads divided by 
+#               peaks called by
+#	            <a href='https://github.com/taoliu/MACS' target='_blank'>MACS2</a>"#                
+#plot_type: 'bargraph'
+#anchor: 'frip_score'
+#pconfig:
+#    title: 'FRiP Score'
+#    ylab: 'FRiP Score'
